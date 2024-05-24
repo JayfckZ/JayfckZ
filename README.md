@@ -24,6 +24,6 @@ Linguagens e tecnologias que costumo usar no dia a dia.
 ## Contato
 Entre em contato comigo pelo email ou linkedin!
 <div>
-  <a href = "mailto:contato@joaomarcelo1015ba@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaomarcelo1015ba@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaomarcelbatista" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
