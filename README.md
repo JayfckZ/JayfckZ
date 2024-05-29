@@ -1,5 +1,5 @@
 # Bem Vindo(a)!!
-- 🐍 Desenvolvedor Fullstack Python em formação.
+- 🐍 Desenvolvedor Fullstack Python em formação pela EBAC.
 - 🎓 Cientista da Computação em formação pela Unicarioca.
 - 💻 Em busca de oportunidades de trabalho!
 
